@@ -1,0 +1,14 @@
+#sample-sliedshow 
+
+
+
+.photo img {
+	display: none;
+	position: absolute;
+} 
+
+
+.photo img{
+	width:	600px;
+	height:	400px;
+} 
